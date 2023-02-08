@@ -1,0 +1,38 @@
+#Photo{
+    position: relative;
+    top: 20vh;
+    width: 250px;
+    right: 300px;
+}
+button{
+    display: flex;
+    flex-wrap: wrap;
+    position: relative;
+    top: 25vh;
+     right: 250px;
+    justify-content: space-between;
+    align-items: center;
+    justify-content: center;
+}
+.btn2{
+    border: 2px solid black;
+    position: relative;
+    top: 43vh;
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+
+}
+.btn1{
+    border: 2px solid black; 
+    height: 30px;
+    width: 60px;
+    border-radius: 10px;
+}
+input{
+    border: none;
+    border-bottom: 1px solid black;
+    margin-left: -700px;
+    margin-top: 200px;
+}
+
